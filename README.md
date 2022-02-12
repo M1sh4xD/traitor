@@ -14,11 +14,7 @@ Run with no arguments to find poteasdasdses/misconfigurations which could allow 
 traitor -p
 ```
 
-Run with the `-a`/`--any` flag to find potential vulnerabilities, attempting to exploit each, stopping if a root shell is gained. Again, add the `-p` flag if the current user password is known.
-
-```bash
-traitor -a -p
-```
+sdasdas
 
 Run with the `-e`/`--exploit` flag to attempt to exploit a specific vulnerability and gain a root shell.
 
